@@ -3,7 +3,7 @@
 #### Links
 
 - [Landing Page](https://buddycount.github.io/POC-flutter/)
-- [...]
+- [App Mockup (Figma)](https://www.figma.com/design/9XQxoVSvsGFkov3m2gtXxE/Mockup?m=auto&t=NGKzTnuxCkvpSpkX-1)
 
 #### Table of contents
 
@@ -53,7 +53,7 @@ But fear not: **_BuddyCount_ is there for you** ! It's a user-friendly app that 
 Start using BuddyCount in 3 easy steps
 
 1. Download the app.
-2. Create a new trip and add your friends.
+2. Create a new Bud and add your friends.
 3. Add the expenses you've paid for. You're done!
 
 ## Why BuddyCount over other alternatives?
