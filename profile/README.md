@@ -20,12 +20,33 @@ Imagine you're going on a ski trip with your friends. Bob paid for the lift tick
 But fear not: **_BuddyCount_ is there for you** ! It's a user-friendly app that helps you keep track of who owes what automatically. No more maths, no more headaches, no more stress.
 
 ## Features
-
-- [x] Expenses prediction
-- [x] Fully customizable view
-- [x] Free
-- [x] Secure data
-- [x] Open source
+<table>
+  <thead>
+    <tr>
+      <th>User features</th>
+      <th>Technical features</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>
+      <ul>
+        <li>[x] Expenses tracking</li>
+        <li>[x] Expenses prediction</li>
+        <li>[x] Customizable expenses view</li>
+        <li>[x] Multi-currency support</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>[x] Export data / import expenses from other apps</li>
+        <li>[x] Account-less</li>
+        <li>[x] Free & open source</li>
+        <li>[x] Secure data</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Quick start
 
