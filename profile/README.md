@@ -2,7 +2,7 @@
 
 #### Links
 
-- [Landing Page](https://buddycount.github.io/POC-flutter/)
+- [Landing Page](https://buddycount.github.io/Landing-Page/)
 - [App Mockup (Figma)](https://www.figma.com/design/9XQxoVSvsGFkov3m2gtXxE/Mockup?m=auto&t=NGKzTnuxCkvpSpkX-1)
 
 #### Table of contents
