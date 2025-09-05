@@ -4,13 +4,16 @@
 
 - [Landing Page](https://buddycount.github.io/Landing-Page/)
 - [App Mockup (Figma)](https://www.figma.com/design/9XQxoVSvsGFkov3m2gtXxE/Mockup?m=auto&t=NGKzTnuxCkvpSpkX-1)
-- [Technical description](https://github.com/BuddyCount/BuddyCount/tree/main/docs)
+- [Presentation (Slides)](https://www.figma.com/deck/KjmyK0v7asETsG9oqf7VsT/Slides), [PDF version](https://github.com/BuddyCount/BuddyCount/tree/main/docs/src/presentation.pdf)
+- [Presentation (Video)](https://www.youtube.com/watch?v=XsQE-BCzkJg)
+- [Documentation, onboarding and contribution guide](https://github.com/BuddyCount/BuddyCount)
 
 #### Table of contents
 
 - [Why BuddyCount?](#why-buddycount)
 - [Features](#features)
 - [Quick start](#quick-start)
+- [Quick start locally](#quick-start-locally)
 - [Why BuddyCount over other alternatives?](#why-buddycount-over-other-alternatives)
 
 
@@ -20,7 +23,7 @@ Imagine you're going on a ski trip with your friends. Bob paid for the lift tick
 
 But fear not: **_BuddyCount_ is there for you** ! It's a user-friendly app that helps you keep track of who owes what automatically. No more maths, no more headaches, no more stress.
 
-## Features
+## Main features
 <table>
   <thead>
     <tr>
@@ -40,7 +43,7 @@ But fear not: **_BuddyCount_ is there for you** ! It's a user-friendly app that 
     </td>
     <td>
       <ul>
-        <li>[x] Export data / import expenses from other apps</li>
+        <li>[x] Export data / import expenses from other apps (To do)</li>
         <li>[x] Account-less</li>
         <li>[x] Free & open source</li>
         <li>[x] Secure data</li>
@@ -56,6 +59,10 @@ Start using BuddyCount in 3 easy steps
 1. Download the app.
 2. Create a new Bud and add your friends.
 3. Add the expenses you've paid for. You're done!
+
+## Quick start locally
+
+To run the app locally, please read the [documentation](https://github.com/BuddyCount/BuddyCount).
 
 ## Why BuddyCount over other alternatives?
 
