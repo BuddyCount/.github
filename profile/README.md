@@ -8,6 +8,8 @@
 - [Presentation (Video)](https://www.youtube.com/watch?v=XsQE-BCzkJg)
 - [Documentation, onboarding and contribution guide](https://github.com/BuddyCount/BuddyCount)
 
+__FOR PDG reviewers__: here's a link to a group which already has some expenses, so you can easily view all features including expenses prediction. Just run the app (`flutter run -d chrome`) and use the following link (you need to put the whole link in the input when asked to do so) : https://buddycount.app/join/377a83af-f2fa-49ab-8b79-89fca02cce7b
+
 #### Table of contents
 
 - [Why BuddyCount?](#why-buddycount)
