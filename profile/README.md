@@ -4,7 +4,9 @@
 
 - [Landing Page](https://buddycount.github.io/Landing-Page/)
 - [App Mockup (Figma)](https://www.figma.com/design/9XQxoVSvsGFkov3m2gtXxE/Mockup?m=auto&t=NGKzTnuxCkvpSpkX-1)
-- [Technical description](https://github.com/BuddyCount/BuddyCount/tree/main/docs)
+- [Presentation (Slides)](https://www.figma.com/deck/KjmyK0v7asETsG9oqf7VsT/Slides), [PDF version](https://github.com/BuddyCount/BuddyCount/tree/main/docs/src/presentation.pdf)
+- [Presentation (Video)](https://www.youtube.com/watch?v=XsQE-BCzkJg)
+- [Documentation, onboarding and contribution guide](https://github.com/BuddyCount/BuddyCount)
 
 #### Table of contents
 
