@@ -23,7 +23,7 @@ Imagine you're going on a ski trip with your friends. Bob paid for the lift tick
 
 But fear not: **_BuddyCount_ is there for you** ! It's a user-friendly app that helps you keep track of who owes what automatically. No more maths, no more headaches, no more stress.
 
-## Features
+## Main features
 <table>
   <thead>
     <tr>
@@ -43,7 +43,7 @@ But fear not: **_BuddyCount_ is there for you** ! It's a user-friendly app that 
     </td>
     <td>
       <ul>
-        <li>[x] Export data / import expenses from other apps</li>
+        <li>[x] Export data / import expenses from other apps (To do)</li>
         <li>[x] Account-less</li>
         <li>[x] Free & open source</li>
         <li>[x] Secure data</li>
