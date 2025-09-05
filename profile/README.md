@@ -13,6 +13,7 @@
 - [Why BuddyCount?](#why-buddycount)
 - [Features](#features)
 - [Quick start](#quick-start)
+- [Quick start locally](#quick-start-locally)
 - [Why BuddyCount over other alternatives?](#why-buddycount-over-other-alternatives)
 
 
@@ -58,6 +59,10 @@ Start using BuddyCount in 3 easy steps
 1. Download the app.
 2. Create a new Bud and add your friends.
 3. Add the expenses you've paid for. You're done!
+
+## Quick start locally
+
+To run the app locally, please read the [documentation](https://github.com/BuddyCount/BuddyCount).
 
 ## Why BuddyCount over other alternatives?
 
